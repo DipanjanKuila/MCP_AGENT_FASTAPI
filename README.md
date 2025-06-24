@@ -3,7 +3,7 @@
 
 ## 📹 Demo Video
 
-[▶️ Watch the Demo](assets/MCP_AGENT_FASTAPI (1).mp4)
+[▶️ Watch the Demo](./assets/MCP_AGENT_FASTAPI (1).mp4)
 
 
 This project demonstrates how to **easily convert your FastAPI APIs into an MCP (Modular Command Protocol) server** using `fastapi-mcp`. It includes:
