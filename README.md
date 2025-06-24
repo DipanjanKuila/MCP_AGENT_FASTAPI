@@ -1,11 +1,6 @@
 # MCP_AGENT_FASTAPI
 # 🚀 MCP Agent with FastAPI Integration
 
-## 📹 Demo Video
-
-[▶️ Watch the Demo](./assets/demo.mp4)
-
-
 This project demonstrates how to **easily convert your FastAPI APIs into an MCP (Modular Command Protocol) server** using `fastapi-mcp`. It includes:
 
 - Multiple CRUD endpoints
@@ -36,6 +31,9 @@ This project demonstrates how to **easily convert your FastAPI APIs into an MCP 
 └── README.md # Project documentation
 ```
 
+## 📹 Demo Video
+
+[▶️ Watch the Demo](./assets/demo.mp4)
 
 ## How MCP Works with FastAPI
 - The FastApiMCP class wraps your FastAPI app.
