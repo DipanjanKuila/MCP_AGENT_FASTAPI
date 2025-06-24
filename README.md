@@ -23,19 +23,18 @@ This project demonstrates how to **easily convert your FastAPI APIs into an MCP 
 ---
 
 ## 📁 Project Structure
-
+'''
 ├── main.py # FastAPI app + MCP mounting
 ├── client.py # Asynchronous memory chat using MCPAgent
 ├── config.json # MCP server configuration
 ├── MOCK_DATA.json # Local data store for user records
 └── README.md # Project documentation
+'''
 
 ## How MCP Works with FastAPI
 - The FastApiMCP class wraps your FastAPI app.
-
 - All valid routes (except the ones you exclude) are turned into MCP tools.
-
--You can use these tools with an MCPAgent, allowing LLMs to interact with your app programmatically.
+- You can use these tools with an MCPAgent, allowing LLMs to interact with your app programmatically.
 
 ## Benefits
 - 🔧 Turn any FastAPI route into an LLM tool instantly.
