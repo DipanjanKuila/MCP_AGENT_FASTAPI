@@ -18,7 +18,7 @@ This project demonstrates how to **easily convert your FastAPI APIs into an MCP 
 ✅ Schema changes do **not break** the MCP server  
 ✅ Custom control to **exclude** specific endpoints from MCP (like `delete_user`)  
 ✅ Works out-of-the-box with `MCPAgent` using a config file  
-✅ Video demo available 
+✅ Video demo available[▶️ Watch the Demo](./assets/demo.mp4)
 
 ---
 
@@ -31,9 +31,6 @@ This project demonstrates how to **easily convert your FastAPI APIs into an MCP 
 └── README.md # Project documentation
 ```
 
-## 📹 Demo Video
-
-[▶️ Watch the Demo](./assets/demo.mp4)
 
 ## How MCP Works with FastAPI
 - The FastApiMCP class wraps your FastAPI app.
