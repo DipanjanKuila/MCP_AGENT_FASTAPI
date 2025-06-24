@@ -1,6 +1,11 @@
 # MCP_AGENT_FASTAPI
 # 🚀 MCP Agent with FastAPI Integration
 
+## 📹 Demo Video
+
+[▶️ Watch the Demo]("C:\Users\DIPANJAN\Downloads\MCP_AGENT_FASTAPI.mp4")
+
+
 This project demonstrates how to **easily convert your FastAPI APIs into an MCP (Modular Command Protocol) server** using `fastapi-mcp`. It includes:
 
 - Multiple CRUD endpoints
@@ -18,7 +23,7 @@ This project demonstrates how to **easily convert your FastAPI APIs into an MCP 
 ✅ Schema changes do **not break** the MCP server  
 ✅ Custom control to **exclude** specific endpoints from MCP (like `delete_user`)  
 ✅ Works out-of-the-box with `MCPAgent` using a config file  
-✅ Video demo available (📹 Add your link here)
+✅ Video demo available 
 
 ---
 
