@@ -23,12 +23,13 @@ This project demonstrates how to **easily convert your FastAPI APIs into an MCP 
 ---
 
 ## 📁 Project Structure
-.
+```
 ├── main.py # FastAPI app + MCP mounting
 ├── client.py # Asynchronous memory chat using MCPAgent
 ├── config.json # MCP server configuration
 ├── MOCK_DATA.json # Local data store for user records
 └── README.md # Project documentation
+```
 
 
 ## How MCP Works with FastAPI
